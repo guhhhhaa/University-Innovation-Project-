@@ -1,6 +1,6 @@
 # DaChuang
-shit
-Deep Supervised Discrete Hashing https://arxiv.org/abs/1705.1099
+# bullshit
+Deep Supervised Discrete Hashing https://arxiv.org/abs/1705.10999
 “基于内容的图像检索”(content-based image retrieval (CBIR))
 Deep Binary Representation for Efficient Image Retrieval https://doi.org/10.1155/2017/8961091
 图像检索：再叙ANN Search https://yongyuan.name/blog/ann-search.html
@@ -11,5 +11,4 @@ Java相似图片搜索算法之"感知哈希算法"实例 http://blog.sina.com.c
 java指纹识别+谷歌图片识别技术=======源码实现===分享出来===
 http://www.icodeguru.com/3/2451.html
 https://github.com/nivance/image-similarity
-https://github.com/weichao66666/OpenCV_image_comparator/commit/7a297c2d13f349891d12c0d7f9b1b4468f86e39a
 https://github.com/weichao66666/OpenCV_image_comparator
