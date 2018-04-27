@@ -10,7 +10,7 @@
 - Java相似图片搜索算法之"感知哈希算法"实例 http://blog.sina.com.cn/s/blog_5ddc071f0101o9th.html
 - java指纹识别+谷歌图片识别技术=======源码实现===分享出来===
   http://www.icodeguru.com/3/2451.html
-- 
+- 计算图片之间的相似度
   https://github.com/nivance/image-similarity
 - 
   https://github.com/weichao66666/OpenCV_image_comparator  
