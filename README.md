@@ -12,7 +12,7 @@
   http://www.icodeguru.com/3/2451.html
 - 计算图片之间的相似度
   https://github.com/nivance/image-similarity
-- 
+- 图片相似度计算（直方图，峰值信噪比，结构相似性，感知哈希算法），轮廓检测，直线检测，圆检测，角点检测，直线交点计算，旋转角度矫正，图像匹配的对应相似处连线，灰度，二值化，直方图均衡化。
   https://github.com/weichao66666/OpenCV_image_comparator  
 - Google 以图搜图- 相似图片搜索原理- Java实现- 技术人生
   http://www.jishurensheng.com/580220004.html 
