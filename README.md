@@ -101,10 +101,18 @@
 - Google 以图搜图- 相似图片搜索原理- Java实现- 技术人生
   http://www.jishurensheng.com/580220004.html
 
+---
+
+### 华中科技大学
+
+- [Deep Neural Networks for Scene Text Reading - Universal Pattern ...](http://u-pat.org/ICDAR2017/keynotes/ICDAR2017_Keynote_Prof_Bai.pdf)
+
 
 ---
 
+- [【大规模图像检索的利器】Deep哈希算法介绍](https://zhuanlan.zhihu.com/p/21396173)
 
-# [【大规模图像检索的利器】Deep哈希算法介绍](https://zhuanlan.zhihu.com/p/21396173)
+    -
+---
 
-	- [A Single-Shot Oriented Scene Text Detector - arXiv 1801.02765](https://arxiv.org/pdf/1801.02765)
+- [A Single-Shot Oriented Scene Text Detector - arXiv 1801.02765](https://arxiv.org/pdf/1801.02765)
