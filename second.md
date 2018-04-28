@@ -53,9 +53,7 @@
 
 - [Deep Neural Networks for Scene Text Reading - Universal Pattern ...](http://u-pat.org/ICDAR2017/keynotes/ICDAR2017_Keynote_Prof_Bai.pdf)
 
-- B. Shi, C. Yao, M. Liao, M Yang, P Xu, L Cui, S Belongie, S Lu, X Bai.
-
-[ICDAR2017 Competition on Reading Chinese Text in the Wild ( RCTW-17). ICDAR’17](http://mclab.eic.hust.edu.cn/icdar2017chinese)
+- [ICDAR2017 Competition on Reading Chinese Text in the Wild ( RCTW-17). ICDAR’17](http://mclab.eic.hust.edu.cn/icdar2017chinese)B. Shi, C. Yao, M. Liao, M Yang, P Xu, L Cui, S Belongie, S Lu, X Bai.
 
 
 - [A Single-Shot Oriented Scene Text Detector - arXiv 1801.02765](https://arxiv.org/pdf/1801.02765)
