@@ -49,7 +49,7 @@
 # 端到端场景文本检测
 
 
-###华中科技大学ppt
+### 华中科技大学ppt
 
 - [Deep Neural Networks for Scene Text Reading - Universal Pattern ...](http://u-pat.org/ICDAR2017/keynotes/ICDAR2017_Keynote_Prof_Bai.pdf)
 
