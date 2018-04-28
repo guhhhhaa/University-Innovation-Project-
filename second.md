@@ -7,7 +7,7 @@
 
 - [CN104966081A - 书脊图像识别方法- Google Patents](https://patents.google.com/patent/CN104966081A/zh)
 
-
+- [基于小波分析和概率Hough变换的书脊视觉识别](http://www.cqvip.com/qk/94293x/2014001/48442112.html)
 
 ---
 
