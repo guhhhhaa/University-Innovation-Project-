@@ -100,3 +100,11 @@
   https://github.com/weichao66666/OpenCV_image_comparator  
 - Google 以图搜图- 相似图片搜索原理- Java实现- 技术人生
   http://www.jishurensheng.com/580220004.html
+
+
+---
+
+
+# [【大规模图像检索的利器】Deep哈希算法介绍](https://zhuanlan.zhihu.com/p/21396173)
+
+	- [A Single-Shot Oriented Scene Text Detector - arXiv 1801.02765](https://arxiv.org/pdf/1801.02765)
