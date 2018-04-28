@@ -114,9 +114,13 @@
 
 ---
 
+
+
 - [【大规模图像检索的利器】Deep哈希算法介绍](https://zhuanlan.zhihu.com/p/21396173)
 
-    -
+- [中科院NIPS 2017论文提出深度离散哈希算法，可用于图像检索](https://www.jiqizhixin.com/articles/2017-11-02-20)
+
+    - https://arxiv.org/abs/1705.10999
 ---
 
 - [A Single-Shot Oriented Scene Text Detector - arXiv 1801.02765](https://arxiv.org/pdf/1801.02765)
