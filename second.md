@@ -1,4 +1,18 @@
-## 啥？图像哈希值检索？啥？CBIR？
+
+
+# 书脊分割
+
+
+- [书籍切割之书脊边界直线检测算法小结（bookSpines Segmentation）](https://blog.csdn.net/eternity1118_/article/details/50833828)
+
+- [CN104966081A - 书脊图像识别方法- Google Patents](https://patents.google.com/patent/CN104966081A/zh)
+
+
+
+---
+
+
+# 深度图像哈希检索
 - Deep Supervised Discrete Hashing https://arxiv.org/abs/1705.10999
 - “基于内容的图像检索”(content-based image retrieval (CBIR))
 - Deep Binary Representation for Efficient Image Retrieval https://doi.org/10.1155/2017/8961091
@@ -31,12 +45,6 @@
 ---
 
 
-# 书脊分割
-
-- [书籍切割之书脊边界直线检测算法小结（bookSpines Segmentation）](https://blog.csdn.net/eternity1118_/article/details/50833828)
-- [CN104966081A - 书脊图像识别方法- Google Patents](https://patents.google.com/patent/CN104966081A/zh)
-
----
 
 # 端到端场景文本检测
 
@@ -49,10 +57,6 @@
 
 [ICDAR2017 Competition on Reading Chinese Text in the Wild ( RCTW-17). ICDAR’17](http://mclab.eic.hust.edu.cn/icdar2017chinese)
 
-
----
-
----
 
 - [A Single-Shot Oriented Scene Text Detector - arXiv 1801.02765](https://arxiv.org/pdf/1801.02765)
 
